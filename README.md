@@ -1,4 +1,5 @@
-# mret  <img src="logo.png" width="25" height="25" style="vertical-align:middle;margin-left:12px;" />
+<img src="logo.png" alt="mret logo" width="60" />
+# mret
 
 ### ixl cheat
 
