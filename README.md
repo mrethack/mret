@@ -1,10 +1,9 @@
 <img src="logo.png" alt="mret logo" width="60" />
 
 # mret
-
 ### ixl cheat
 
-uses ai to answer questions saving you time. no api key required.
+mret is a free cheat utilizing advanced AI technology to automate your IXL learning experience. Boost your productivity and achieve better results effortlessly.
 
 ---
 
@@ -17,6 +16,7 @@ uses ai to answer questions saving you time. no api key required.
 ### 💡 Why mret?  
 - ✅ free
 - ✅ accurate
+- ✅ fast
 - ✅ easy to use
   
 ---
